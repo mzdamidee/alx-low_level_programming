@@ -5,7 +5,7 @@
  *
  * and return the sum
  */
-int add(int, int);
+int add(int, int)
 {
 	int j, i, sum;
 
