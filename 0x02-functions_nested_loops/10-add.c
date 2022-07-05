@@ -5,11 +5,11 @@
  *
  * and return the sum
  */
-int add(int, int)
+int add(int j, int i)
 {
-	int j, i, sum;
+	int sum;
 
-	sum = j + 1;
+	sum = j + i;
 
 	return (sum);
 }
