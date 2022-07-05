@@ -3,7 +3,7 @@
 /**
  * main - prints the first 50 Fibonacci number starting with 1 and 2
  *
- * Retrun: Always 0
+ * Retun: Always 0
  */
 int main(void)
 {
