@@ -13,7 +13,7 @@ int main(void)
 
 {
 	int i;
-	unsigned long int j, k, next, sum;	
+	unsigned long int j, k, next, sum;
 	
 	j = 1;
 	k = 2;
@@ -29,7 +29,6 @@ int main(void)
 		j = k;
 		k = next;
 	}
-	
 	printf("%lu\n", sum);
 	
 	return (0);
