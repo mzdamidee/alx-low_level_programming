@@ -4,6 +4,7 @@
 /**
  * listint_len - retunrs te number of elements
  * @h: pointer to the head of the list
+ * Return: the number of elements in the list
  */
 
 size_t listint_len(const listint_t *h)
